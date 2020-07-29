@@ -192,7 +192,7 @@ Supported options:
 
 ---
 
-#### `requestAuthorization()`
+#### `requestAuthorization() - iOS only`
 
 ```javascript
 geolocation.requestAuthorization();
